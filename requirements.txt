@@ -1,0 +1,6 @@
+# Core lab dependencies; these exact core versions were used for validation.
+beautifulsoup4==4.14.3
+nltk==3.9.2
+requests==2.32.5
+# JupyterLab provides the notebook interface.
+jupyterlab>=4.4,<5
